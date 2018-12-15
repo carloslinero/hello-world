@@ -9,3 +9,5 @@ this line is insert to the vim command in the MINGW32, and late to go pushed int
 
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.NOW branch Develop it working.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+....Ahora el master serà actiìualizado mediante el develop....
